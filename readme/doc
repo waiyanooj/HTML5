@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+  </head>
+  <body>
+    <u><b>ipsum dolor</b><i>amet consectetur adipisicing elit.</i><s>Doloremque magnam hic aliquid assumenda fuga ut deserunt architecto eveniet quas accusantium dolorum animi ex laboriosam porro optio, fugit officiis a iste!</s></u>
+  </body>
+</html>
+
+<code>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, soluta?</code>
